@@ -2,3 +2,4 @@ Codigo_Agustin
 Otro_Codigo_Agustin
 Ultimo_Codigo_Agustin
 Codigo puesto en branch codigo_agustin
+Codigo puesto en branch codigo_agustin accedido a traves de la terminal usando comando git checkout -t origin/codigo_agustin

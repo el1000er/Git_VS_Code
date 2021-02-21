@@ -3,3 +3,5 @@ Otro_Codigo_Agustin
 Ultimo_Codigo_Agustin
 Codigo_Maria
 Mas codigo para hacer un conflicto
+Codigo puesto en branch codigo_agustin
+Codigo puesto en branch codigo_agustin accedido a traves de la terminal usando comando git checkout -t origin/codigo_agustin
